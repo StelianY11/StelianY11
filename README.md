@@ -1,5 +1,6 @@
-# | Stelian Yanakiev |
-|:----------------:|
+# <p align="center">
+  <img src="https://imgur.com/your-custom-image-link-here" alt="Stelian Yanakiev" />
+</p>
 
 
 🚀 **Passionate Student of Informatics & Computer Science** at the University of Economics - Varna | **Participant in SoftUni Courses** 🌟  
