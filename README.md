@@ -11,7 +11,7 @@
 [![Facebook](https://img.shields.io/badge/-Facebook-00B2FF?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/stelian.yanakiev)
 [![Instagram](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/stelian_yanakiev/)
 <p align="left">
-   <a href="www.linkedin.com/in/stelian-yanakiev-6ba057168" target="_blank">
+   <a href="https://www.linkedin.com/in/stelian-yanakiev-6ba057168/" target="_blank">
       <img alt="LinkedIn" title="Connect on LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2"/>
    </a>
    <a href="https://www.instagram.com/stelian_yanakiev/" target="_blank">
@@ -20,16 +20,7 @@
    <a href="https://www.facebook.com/stelian.yanakiev" target="_blank">
       <img alt="Facebook" title="Follow on Facebook" src="https://img.shields.io/badge/Facebook-Follow-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=4267B2"/>
    </a>
-   <a href="mailto:your-email@gmail.com" target="_blank">
-      <img alt="Email" title="Contact via Email" src="https://img.shields.io/badge/Email-Contact Me-red?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335"/>
-   </a>
 </p>
-
-<p align="left">
-   <img src="https://img.shields.io/badge/Made%20with-Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/>
-   <img src="https://img.shields.io/badge/Made%20with-Love-ff69b4?style=for-the-badge&logo=heart&logoColor=white"/>
-</p>
-
 
 
 
