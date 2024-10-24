@@ -33,16 +33,16 @@
   <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
   <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img align="left" alt="Angular" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
-  <img align="left" alt="GitHub" width="30px" style="padding-right:10px; filter: invert(0%) sepia(100%) saturate(0%) hue-rotate(240deg);" src="https://mauigamestudio.com/wp-content/uploads/2022/08/Github-desktop-logo-symbol.svg-1024x1024.png"/>
+  <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://mauigamestudio.com/wp-content/uploads/2022/08/Github-desktop-logo-symbol.svg-1024x1024.png"/>
   <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="left" alt="C#" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
   <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-  <img align="left" alt="Express" width="30px" style="padding-right:10px; filter: brightness(0) saturate(100%) invert(55%) sepia(100%) saturate(1000%) hue-rotate(175deg) brightness(85%) contrast(95%);" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
-  <img align="left" alt="Handlebars" width="30px" style="padding-right:10px; filter: brightness(0) saturate(100%) invert(74%) sepia(100%) saturate(2050%) hue-rotate(30deg) brightness(100%) contrast(90%);" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2K-c_MDpX9gZbrgbhbh37afZcd84XVQaSTtq_64Y5JoDXabgmababDVf2ywoFkJRZLjw&usqp=CAU" />
+  <img align="left" alt="Express" width="30px" style="padding-right:10px;" src="https://cdn.prod.website-files.com/609bc2fa29b6d5b7f44a2785/647743f51bc76753239a8bc6_expressjs-logo.webp" />
+  <img align="left" alt="Handlebars" width="30px" style="padding-right:10px;" src="" />
   <img align="left" alt="MongoDB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
 <br clear="left" />
-
+<a href="https://iconscout.com/icons/handlebars" class="text-underline font-size-sm" target="_blank">Handlebars</a> by <a href="https://iconscout.com/contributors/icon-mafia" class="text-underline font-size-sm">Icon Mafia</a> on <a href="https://iconscout.com" class="text-underline font-size-sm">IconScout</a>
 ### 📊 GitHub Stats
 
 <p>
