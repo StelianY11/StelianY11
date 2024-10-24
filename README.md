@@ -37,7 +37,7 @@
 
 ### 📊 GitHub Stats
 
-![Stelian's GitHub stats](https://github-readme-stats.vercel.app/api?username=StelianY11&show_icons=true&theme=dark)
+![Stelian's GitHub stats](https://github-readme-stats.vercel.app/api?username=StelianY11&show_icons=true&theme=vision-friendly-dark)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
