@@ -1,5 +1,4 @@
-# <img src="https://img.shields.io/badge/Stelian%20Yanakiev-Terminal%20Style-green?style=for-the-badge&logo=linux&logoColor=white" />
-
+# `Stelian Yanakiev`
 
 🚀 **Passionate Student of Informatics & Computer Science** at the University of Economics - Varna | **Participant in SoftUni Courses** 🌟  
 🎓 Currently pursuing a degree in Informatics and Computer Science at the University of Economics - Varna, deeply immersed in the dynamic world of technology and its applications.  
