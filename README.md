@@ -44,7 +44,7 @@
 
 <p>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=StelianY11&show_icons=true&theme=vision-friendly-dark" alt="Stelian's GitHub stats" />
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StelianY11&layout=compact&hide_border=true&theme=vision-friendly-dark" alt="Top languages" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StelianY11&layout=compact&hide_border=false&border_color=ffffff&theme=vision-friendly-dark" alt="Top languages" />
 </p>
 <br clear="left" />
 
