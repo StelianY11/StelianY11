@@ -38,9 +38,10 @@
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 <img align="left" alt="C#" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-<img align="left" alt="Express" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" style="filter: brightness(0) saturate(100%) invert(22%) sepia(92%) saturate(3483%) hue-rotate(199deg) brightness(101%) contrast(100%);" />
-<img align="left" alt="Handlebars" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/e/e1/Handlebars_logo.svg" style="filter: brightness(0) saturate(100%) invert(74%) sepia(92%) saturate(3451%) hue-rotate(12deg) brightness(99%) contrast(99%);" />
+<img align="left" alt="Express" width="30px" style="padding-right:10px; filter: brightness(0) saturate(100%) invert(19%) sepia(95%) saturate(1538%) hue-rotate(209deg) brightness(93%) contrast(92%);" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
+<img align="left" alt="Handlebars" width="30px" style="padding-right:10px; filter: brightness(0) saturate(100%) invert(70%) sepia(83%) saturate(3059%) hue-rotate(16deg) brightness(100%) contrast(100%);" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/handlebars/handlebars-original.svg" />
 <img align="left" alt="MongoDB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+
 
 
 </p>
