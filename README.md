@@ -10,14 +10,18 @@
 
 [![Facebook](https://img.shields.io/badge/-Facebook-00B2FF?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/stelian.yanakiev)
 [![Instagram](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/stelian_yanakiev/)
-  <p align="left">
-      <a href="https://github.com/ForrestKnight?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ForrestKnight?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-      <a href="https://www.instagram.com/stelian_yanakiev/">
-         <img alt="instagram" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6O328n17ZGcfg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
-      <a href="https://www.facebook.com/stelian.yanakiev">
-         <img alt="facebook" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC2WHjPDvbE6O328n17ZGcfg?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a>  
-   </p>
+<p align="left">
+   <a href="www.linkedin.com/in/stelian-yanakiev-6ba057168" target="_blank">
+      <img alt="LinkedIn Profile" title="Connect on LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+   </a>
+   <a href="https://www.instagram.com/stelian_yanakiev/" target="_blank">
+      <img alt="Instagram" title="Follow on Instagram" src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+   </a>
+   <a href="https://www.facebook.com/stelian.yanakiev" target="_blank">
+      <img alt="Facebook" title="Follow on Facebook" src="https://img.shields.io/badge/Facebook-Follow-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+   </a>
+</p>
+
 
 
 ### GitHub Stats
