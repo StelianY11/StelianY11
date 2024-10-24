@@ -1,4 +1,6 @@
-# `Stelian Yanakiev`
+# | Stelian Yanakiev |
+|:----------------:|
+
 
 🚀 **Passionate Student of Informatics & Computer Science** at the University of Economics - Varna | **Participant in SoftUni Courses** 🌟  
 🎓 Currently pursuing a degree in Informatics and Computer Science at the University of Economics - Varna, deeply immersed in the dynamic world of technology and its applications.  
