@@ -1,11 +1,15 @@
 # Stelian Yanakiev
 
-##`Digital Craftmaker`##
+## **`Digital Craftmaker`**
 
-🚀 Passionate Student of Informatics & Computer Science at the University of Economics - Varna | Participant in SoftUni Courses 🌟</br>
-🎓 Currently pursuing a degree in Informatics and Computer Science at the University of Economics - Varna, I am deeply immersed in the dynamic world of technology and its applications.</br>
-🔍 Alongside my academic journey, I actively engage in online courses through SoftUni (Softuer University), enriching my knowledge and skills in cutting-edge software development and IT concepts.</br>
-💡 Eager to explore diverse opportunities and contribute meaningfully to the tech industry, I am committed to continuous learning and staying updated with the latest trends and innovations.</br>
+🚀 **Passionate Student of Informatics & Computer Science** at the University of Economics - Varna | **Participant in SoftUni Courses** 🌟  
+🎓 Currently pursuing a degree in Informatics and Computer Science at the University of Economics - Varna, deeply immersed in the dynamic world of technology and its applications.  
+🔍 Actively engaging in online courses at **SoftUni (Software University)**, I am continuously enriching my knowledge and skills in cutting-edge software development and IT concepts.  
+💡 Eager to explore diverse opportunities and contribute meaningfully to the tech industry, committed to continuous learning and staying updated with the latest trends and innovations.  
+
+---
+
+### 🌐 Connect with me
 
 <p align="left">
    <a href="https://www.linkedin.com/in/stelian-yanakiev-6ba057168/" target="_blank">
@@ -19,8 +23,11 @@
    </a>
 </p>
 
+---
+
 ### 🧰 Languages and Tools
 
+<p>
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
@@ -31,21 +38,21 @@
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 <img align="left" alt="C#" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-<br />
+</p>
+<br clear="left" />
 
-#
+---
 
 ### 📊 GitHub Stats
 
-![Stelian's GitHub stats](https://github-readme-stats.vercel.app/api?username=StelianY11&show_icons=true&theme=vision-friendly-dark)
+<p>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=StelianY11&show_icons=true&theme=vision-friendly-dark" alt="Stelian's GitHub stats" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StelianY11&layout=compact&hide_border=true&theme=vision-friendly-dark" alt="Top languages" />
+</p>
+<br clear="left" />
 
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
+---
 
-<p align="center">
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StelianY11&layout=compact&hide_border=true&theme=vision-friendly-dark" alt="Top languages" /></p></br>
-#
+### 🏆 GitHub Trophies
 
-
-
-### GitHub Trophies
-<img align="left" src="https://github-profile-trophy.vercel.app/?username=StelianY11&theme=vision-friendly-dark&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=StelianY11&theme=vision-friendly-dark&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
