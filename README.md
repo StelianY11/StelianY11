@@ -1,7 +1,5 @@
 # Stelian Yanakiev
 
-## **`Digital Craftmaker`**
-
 🚀 **Passionate Student of Informatics & Computer Science** at the University of Economics - Varna | **Participant in SoftUni Courses** 🌟  
 🎓 Currently pursuing a degree in Informatics and Computer Science at the University of Economics - Varna, deeply immersed in the dynamic world of technology and its applications.  
 🔍 Actively engaging in online courses at **SoftUni (Software University)**, I am continuously enriching my knowledge and skills in cutting-edge software development and IT concepts.  
