@@ -39,7 +39,7 @@
   <img align="left" alt="C#" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
   <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
   <img align="left" alt="Express" width="30px" style="padding-right:10px;" src="https://cdn.prod.website-files.com/609bc2fa29b6d5b7f44a2785/647743f51bc76753239a8bc6_expressjs-logo.webp" />
-  <img align="left" alt="Handlebars" width="30px" style="padding-right:10px;" src="https://e7.pngegg.com/pngimages/788/393/png-clipart-handlebars-javascript-html-scalable-graphics-react-handlebars-javascript.png" />
+  <img align="left" alt="Handlebars" width="30px" style="padding-right:10px;" src="https://avatars.githubusercontent.com/u/19378685?s=280&v=4" />
   <img align="left" alt="MongoDB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
 <br clear="left" />
 ### 📊 GitHub Stats
