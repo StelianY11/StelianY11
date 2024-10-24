@@ -1,6 +1,15 @@
-# <p align="center">
-  <img src="https://imgur.com/your-custom-image-link-here" alt="Stelian Yanakiev" />
-</p>
+<h1 align="center">
+  <svg width="100%" height="60">
+    <defs>
+      <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" style="stop-color: #FF5733; stop-opacity: 1" />
+        <stop offset="100%" style="stop-color: #33FF57; stop-opacity: 1" />
+      </linearGradient>
+    </defs>
+    <text x="50%" y="50%" fill="url(#gradient)" text-anchor="middle" alignment-baseline="middle" font-size="50">Stelian Yanakiev</text>
+  </svg>
+</h1>
+
 
 
 🚀 **Passionate Student of Informatics & Computer Science** at the University of Economics - Varna | **Participant in SoftUni Courses** 🌟  
