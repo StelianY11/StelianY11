@@ -10,6 +10,11 @@
   </svg>
 </h1>
 
+<h1 align="center">
+  <span style="color: #00FF00">Stelian</span> <span style="color: #FF5733">Yanakiev</span>
+</h1>
+
+
 
 
 🚀 **Passionate Student of Informatics & Computer Science** at the University of Economics - Varna | **Participant in SoftUni Courses** 🌟  
