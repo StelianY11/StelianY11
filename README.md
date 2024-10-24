@@ -50,7 +50,7 @@
   <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img align="left" alt="C#" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
   <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img align="left" alt="PHP" width="30px" style="padding-right:10px;" src="https://banner2.cleanpng.com/20180625/wzy/kisspng-web-development-php-programmer-software-developer-5b30a50b417a65.2917536315299146352682.jpg" />
+  <img align="left" alt="PHP" width="30px" style="padding-right:10px;" src="https://w7.pngwing.com/pngs/458/566/png-transparent-web-development-php-computer-icons-ios-logo-blue-text-trademark-thumbnail.png" />
 <br clear="left" />
 
 <hr />
