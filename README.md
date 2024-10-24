@@ -6,15 +6,9 @@
         <stop offset="100%" style="stop-color: #33FF57; stop-opacity: 1" />
       </linearGradient>
     </defs>
-    <text x="50%" y="50%" fill="url(#gradient)" text-anchor="middle" alignment-baseline="middle" font-size="50">Stelian Yanakiev</text>
+    <text x="50%" y="50%" fill="url(#gradient)" text-anchor="middle" alignment-baseline="middle" font-size="50"> 💻S T E L I A N  Y A N A K I E V 🛠️</text>
   </svg>
 </h1>
-
-<h1 align="center">
-  <span style="color: #00FF00">Stelian</span> <span style="color: #FF5733">Yanakiev</span>
-</h1>
-
-
 
 
 🚀 **Passionate Student of Informatics & Computer Science** at the University of Economics - Varna | **Participant in SoftUni Courses** 🌟  
