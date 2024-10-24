@@ -44,8 +44,7 @@
 #
 ### GitHub Stats
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StelianY11&layout=compact&hide_border=true" /> |
-| ------------- | ------------- |
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StelianY11&layout=compact&hide_border=true" />
 
 ### GitHub Trophies
 
