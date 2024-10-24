@@ -35,6 +35,13 @@
 
 #
 
+### 📊 GitHub Stats
+
+![Stelian's GitHub stats](https://github-readme-stats.vercel.app/api?username=StelianY11&show_icons=true&theme=dark)
+
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
+
+#
 ### GitHub Stats
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=StelianY11&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide=contribs" alt="GitHub Stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StelianY11&layout=compact&hide_border=true" /> |
