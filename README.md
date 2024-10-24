@@ -2,10 +2,10 @@
 
 ## `Digital Craftmaker` ##
 
-🚀 Passionate Student of Informatics & Computer Science at the University of Economics - Varna | Participant in SoftUni Courses 🌟
-🎓 Currently pursuing a degree in Informatics and Computer Science at the University of Economics - Varna, I am deeply immersed in the dynamic world of technology and its applications.
-🔍 Alongside my academic journey, I actively engage in online courses through SoftUni (Softuer University), enriching my knowledge and skills in cutting-edge software development and IT concepts.
-💡 Eager to explore diverse opportunities and contribute meaningfully to the tech industry, I am committed to continuous learning and staying updated with the latest trends and innovations.
+🚀 Passionate Student of Informatics & Computer Science at the University of Economics - Varna | Participant in SoftUni Courses 🌟</br>
+🎓 Currently pursuing a degree in Informatics and Computer Science at the University of Economics - Varna, I am deeply immersed in the dynamic world of technology and its applications.</br>
+🔍 Alongside my academic journey, I actively engage in online courses through SoftUni (Softuer University), enriching my knowledge and skills in cutting-edge software development and IT concepts.</br>
+💡 Eager to explore diverse opportunities and contribute meaningfully to the tech industry, I am committed to continuous learning and staying updated with the latest trends and innovations.</br>
 
 
 [![Facebook](https://img.shields.io/badge/-Facebook-00B2FF?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/stelian.yanakiev)
