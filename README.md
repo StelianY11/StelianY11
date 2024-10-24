@@ -50,5 +50,4 @@
 
 
 ### GitHub Trophies
-
-<img align="center" src="https://github-profile-trophy.vercel.app/?username=StelianY11=-C,-B" alt="GitHub Trophies" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=StelianY11&show_icons=true&theme=vision-friendly-dark" alt="Stelian's GitHub stats" />
