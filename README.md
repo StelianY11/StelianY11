@@ -33,21 +33,13 @@
   <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
   <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img align="left" alt="Angular" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
-  
-  <!-- GitHub Logo -->
   <img align="left" alt="GitHub" width="30px" style="padding-right:10px; filter: invert(0%) sepia(100%) saturate(0%) hue-rotate(240deg);" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-  
   <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="left" alt="C#" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
   <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-  
-  <!-- Express Logo -->
   <img align="left" alt="Express" width="30px" style="padding-right:10px; filter: brightness(0) saturate(100%) invert(55%) sepia(100%) saturate(1000%) hue-rotate(175deg) brightness(85%) contrast(95%);" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
-  
-  <!-- Handlebars Logo -->
-  <img align="left" alt="Handlebars" width="30px" style="padding-right:10px; filter: brightness(0) saturate(100%) invert(74%) sepia(100%) saturate(2050%) hue-rotate(30deg) brightness(100%) contrast(90%);" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/handlebars/handlebars-original.svg" />
-  
+  <img align="left" alt="Handlebars" width="30px" style="padding-right:10px; filter: brightness(0) saturate(100%) invert(74%) sepia(100%) saturate(2050%) hue-rotate(30deg) brightness(100%) contrast(90%);" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2K-c_MDpX9gZbrgbhbh37afZcd84XVQaSTtq_64Y5JoDXabgmababDVf2ywoFkJRZLjw&usqp=CAU" />
   <img align="left" alt="MongoDB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
 <br clear="left" />
 
