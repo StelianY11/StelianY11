@@ -50,7 +50,7 @@
   <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img align="left" alt="C#" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
   <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img align="left" alt="PHP" width="30px" style="padding-right:10px;" src="https://p7.hiclipart.com/preview/78/907/770/5bc03574b68f4.jpg" />
+  <img align="left" alt="PHP" width="30px" style="padding-right:10px;" src="https://www.php.net/images/logos/new-php-logo.svg" />
 <br clear="left" />
 
 <hr />
