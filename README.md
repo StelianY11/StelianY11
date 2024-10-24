@@ -57,6 +57,7 @@
 
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=StelianY11&theme=vision-friendly-dark&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
 
+<hr />
 
 <details>
  <summary><h3>👨‍💻 Stelian's Coding Journey</h3></summary>
