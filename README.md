@@ -30,6 +30,9 @@
    <a href="https://www.facebook.com/stelian.yanakiev" target="_blank">
       <img alt="Facebook" title="Follow on Facebook" src="https://img.shields.io/badge/Facebook-Follow-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=4267B2"/>
    </a>
+    <a href="mailto:your-email@gmail.com" target="_blank">
+      <img alt="Email" title="Contact via Email" src="https://img.shields.io/badge/Email-Contact Me-red?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335"/>
+   </a>
 </p>
 
 ---
